@@ -6,6 +6,7 @@ language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /jasper2/
+url: "https://iamjunyoung.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Website info
 title: Ghost
